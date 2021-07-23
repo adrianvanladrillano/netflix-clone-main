@@ -1,0 +1,9 @@
+<template>
+  <div>
+    <v-card>
+      <v-img
+        src="https://m.media-amazon.com/images/M/MV5BZTliNWJhM2YtNDc1MC00YTk1LWE2MGYtZmE4M2Y5ODdlNzQzXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_.jpg"
+      ></v-img>
+    </v-card>
+  </div>
+</template>
